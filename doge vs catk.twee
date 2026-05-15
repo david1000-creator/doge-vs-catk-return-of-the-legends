@@ -1,0 +1,21 @@
+:: StoryTitle
+doge vs catk
+
+
+:: StoryData
+{
+  "ifid": "A9C09648-6DE4-4DBB-AF48-595CD8863EEA",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "main menu",
+  "zoom": 1
+}
+
+
+:: main menu {"position":"625,250","size":"100,100"}
+[[То, что видит игрок|название для разработчика]]
+
+
+
+:: название для разработчика {"position":"625,375","size":"100,100"}
+
